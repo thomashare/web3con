@@ -1,0 +1,20 @@
+{
+  "name": "web3con",
+  "version": "1.0.0",
+  "description": "An intuitive web3 connection manager.",
+  "main": "dist",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web3",
+    "connect",
+    "connection",
+    "ethereum",
+    "js",
+    "button",
+    "metamask"
+  ],
+  "author": "Tommy Hare",
+  "license": "MIT"
+}
